@@ -25,7 +25,7 @@ Sample 2
     Looking up ::1 -> /0:0:0:0:0:0:0:1 class java.net.Inet6Address isLoop=true
         
     C:\IPv6Con> java %CP% net.eckenfels.ipv6con.Sample2 127.0.0.1
-    Looking up 127.0.0.1 -> /127.0.0.1 class java.net.Inet6Address isLoop=true
+    Looking up 127.0.0.1 -> /127.0.0.1 class java.net.Inet4Address isLoop=true
     
     C:\IPv6Con> java %CP% net.eckenfels.ipv6con.Sample2 192.0.2.16
     Looking up 192.0.2.16 -> /192.0.2.16 class java.net.Inet4Address isLoop=false
